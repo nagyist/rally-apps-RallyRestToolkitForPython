@@ -9,6 +9,11 @@ of the Rally REST Web Services API using JSON.
 
 .. contents::
 
+NOTICE
+------
+
+This package no longer has active support as of Dec 31, 2025.
+
 Getting started
 ---------------
 
